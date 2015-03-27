@@ -1,2 +1,2 @@
 # cbjs-baidu-github-attack
-Attack scripts towards github 
+Hijacked script on http://cbjs.baidu.com/js/m.js
